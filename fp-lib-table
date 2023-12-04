@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "wogglebug")(type "KiCad")(uri "/home/user/schems/wogglebug/wogglebug")(options "")(descr ""))
+  (lib (name "solarcell")(type "KiCad")(uri "${KIPRJMOD}/solarcell.pretty")(options "")(descr ""))
+  (lib (name "import")(type "Eagle")(uri "/home/user/Downloads/eagle fp")(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TS4871")(type "Legacy")(uri "/home/user/schems/wogglebug/wogglebug/ts4871.lib")(options "")(descr ""))
+  (lib (name "TA7642")(type "Legacy")(uri "/home/user/schems/wogglebug/wogglebug/TA7642.lib")(options "")(descr ""))
+  (lib (name "PIC16f825")(type "Legacy")(uri "/home/user/schems/wogglebug/wogglebug/pic16f1825.lib")(options "")(descr ""))
+  (lib (name "wogglebug-rescue")(type "KiCad")(uri "${KIPRJMOD}/wogglebug-rescue.kicad_sym")(options "")(descr ""))
+)
